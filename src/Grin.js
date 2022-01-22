@@ -1,4 +1,7 @@
 // Grin, your overlay friend
+import TradingVue from 'trading-vue-js'
+import Data from '../data/data.json'
+import Grin from './Grin.js' // New import
 
 // Adds all necessary stuff for you.
 import { Overlay } from 'trading-vue-js'

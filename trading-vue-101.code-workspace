@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+  "settings": {
+    "editor.bracketPairColorization.enabled": true,
+    "terminal.integrated.minimumContrastRatio": 7,
+    "workbench.tips.enabled": false,
+    "editor.foldingStrategy": "indentation",
+    "editor.autoClosingBrackets": "always",
+    "editor.autoClosingQuotes": "always",
+    "workbench.colorTheme": "Tomorrow Night Blue"
+	}
+}
