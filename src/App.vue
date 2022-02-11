@@ -18,7 +18,7 @@ import TradingVue from "trading-vue-js";
 import Data from "../data/data.json";
 // import Grin from "./Grin.js";
 import PerfectTrades from "./PerfectTrades.js";
-import Overlays from 'tvjs-overlays'
+// import Overlays from 'tvjs-overlays'
 
 export default {
   name: "app",
