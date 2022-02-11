@@ -1,6 +1,12 @@
 {
     "chart": {
         "type": "Candles",
+        "settings" : {
+          "buyColor": "#bfff00",
+          "sellColor": "#ec4662",
+          "markerSize": 5,
+          "showLabel": true
+      },
         "data": [
             [
                 1552453200000,
